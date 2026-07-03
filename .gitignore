@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+downloads/*
+!downloads/.gitkeep
+logs/*.log
+history.json
+build/
+dist/
+*.spec
+.DS_Store
+Thumbs.db

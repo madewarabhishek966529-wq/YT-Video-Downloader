@@ -1,0 +1,7 @@
+# Build-time only dependencies -- not needed to run the app from source,
+# only to package it into a standalone .exe with PyInstaller.
+#
+#   pip install -r requirements.txt -r requirements-dev.txt
+#   pyinstaller build.spec
+
+pyinstaller>=6.10.0

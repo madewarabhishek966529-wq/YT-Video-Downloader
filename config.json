@@ -1,0 +1,15 @@
+{
+    "theme": "dark",
+    "color_theme": "blue",
+    "default_resolution": "best",
+    "default_download_folder": "D:\\CODING\\Git Project\\Python Project Git\\youtube_downloader\\downloads",
+    "auto_update_ytdlp": true,
+    "auto_merge_audio": true,
+    "open_folder_after_download": false,
+    "max_concurrent_downloads": 2,
+    "last_used_folder": "D:\\CODING\\Git Project\\Python Project Git\\youtube_downloader\\downloads",
+    "window_geometry": "1536x793+24+28",
+    "sidebar_expanded": true,
+    "check_clipboard": true,
+    "ffmpeg_path": ""
+}
